@@ -1,1 +1,1 @@
-# Learning to program correctly and beautifully. 👾🔮
+# Learning to program correctly. 👾
