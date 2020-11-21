@@ -1,1 +1,1 @@
-# Learning to program correctly. 👾
+# Learning to program correctly.
